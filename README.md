@@ -26,7 +26,8 @@
   <a href="https://www.linkedin.com/in/trisha-nicole-dela-cruz-85b4a0251/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
- <a href="https://www.hackerrank.com/@trishadelacruz11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@trishadelacruz11" height="30" width="40" /></a>
+ <a href="https://www.telegram.com/@Ishanics" target="blank">
+     <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" /></a>
 </div>
 
  <hr/>
