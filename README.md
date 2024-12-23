@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m a student from **Polytechnic University of the Philippines**
+ 🔭 I graduated from **Polytechnic University of the Philippines**
  
  🌱 I’m currently learning **SAP Fiori and Ui5**
 
