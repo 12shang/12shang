@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **SAP Fiori and Ui5**
 
-💬 Ask me about **Vb.net, Python, C#... or anything [here](https://github.com/12shang/12shang/issues)**
+💬 Ask me about **Vb.net, Python, C#... or anything [here](https://github.com/12shang)**
 
 
  </div>
