@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&lines=Hi+There!+👋;+I'm+Trisha+Nicole+Dela+Cruz!;" />
 </h1>
 
-<h3 align="center">Aspiring Data Analyst from Philippines</h3>
+<h3 align="center">SAP ABAP DEVELOPER</h3>
 
 <br/>
 
@@ -12,7 +12,7 @@
  
  🔭 I’m a student from **Polytechnic University of the Philippines**
  
- 🌱 I’m currently learning **R, PowerBi, Sql script**
+ 🌱 I’m currently learning **SAP Fiori, and Ui5**
 
 💬 Ask me about **Vb.net, Python, C#... or anything [here](https://github.com/12shang/12shang/issues)**
 
