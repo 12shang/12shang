@@ -12,7 +12,7 @@
  
  🔭 I’m a student from **Polytechnic University of the Philippines**
  
- 🌱 I’m currently learning **SAP Fiori, and Ui5**
+ 🌱 I’m currently learning **SAP Fiori and Ui5**
 
 💬 Ask me about **Vb.net, Python, C#... or anything [here](https://github.com/12shang/12shang/issues)**
 
